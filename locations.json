@@ -52,6 +52,23 @@
 		]
 	},
 	{
+		"type": "Territories",
+		"title": "Amaci",
+		"notes": "Koreans. Blackjack is hosted here.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+		"order": 0,
+		"strokecolor": "FD5E53",
+		"fillcolor": "FD5E53",
+		"latlngarray": [
+			{"lat": -53.191, "lng": -26.271},
+			{"lat": -53.928, "lng": -22.734},
+			{"lat": -55.947, "lng": -23.393},
+			{"lat": -56.211, "lng": -25.173},
+			{"lat": -54.276, "lng": -27.161}
+			
+		]
+	},
+	{
 		"type": "Neutral",
 		"title": "Alta Street Apartments",
 		"notes": "The Apartments is where new players wake up.",
