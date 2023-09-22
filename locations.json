@@ -38,27 +38,33 @@
 	
 	{
 		"type": "Territories",
-		"title": "Amaci",
-		"notes": "Koreans. Blackjack is hosted here.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+		"title": "Amaci Deli",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FD5E53",
-		"fillcolor": "FD5E53",
+		"strokecolor": "0200ff",
+		"fillcolor": "0200ff",
 		"latlngarray": [
-			{"lat": -56.038, "lng": -12.526},
-			{"lat": -56.276, "lng": -11.317},
-			{"lat": -57.037, "lng": -11.801},
-			{"lat": -56.773, "lng": -13.064}
+			{"lat": -58.404, "lng": -52.518},
+			{"lat": -55.896, "lng": -55.528},
+			{"lat": -54.383, "lng": -55.297},
+			{"lat": -54.255, "lng": -52.891},
+			{"lat": -55.325, "lng": -49.024},
+			{"lat": -56.124, "lng": -46.497},
+			{"lat": -56.410, "lng": -46.585},
+			{"lat": -57.707, "lng": -50.002}
+			
 		]
 	},
+
 	{
 		"type": "Territories",
-		"title": "Amaci2",
-		"notes": "Koreans. Blackjack is hosted here.",
-		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+		"title": "Amaci Los Santos Customs",
+		"notes": "",
+		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FD5E53",
-		"fillcolor": "FD5E53",
+		"strokecolor": "0200ff",
+		"fillcolor": "0200ff",
 		"latlngarray": [
 			{"lat": -53.191, "lng": -26.271},
 			{"lat": -53.928, "lng": -22.734},
@@ -68,6 +74,7 @@
 			
 		]
 	},
+	
 	{
 		"type": "Neutral",
 		"title": "Alta Street Apartments",
