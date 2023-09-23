@@ -1,7 +1,7 @@
-NoPixel Territory map
+CSRP Territory map
 ====
 [Live page](https://skyrossm.github.io/np-gangmap/)
-This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
+This interactive (Google) map shows you the location of current CRSP territory/gang zones.
 
 ## How to submit new locations
 1. Right click on the map to add points.
