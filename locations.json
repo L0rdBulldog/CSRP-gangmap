@@ -2,7 +2,7 @@
 
 	{
 		"type": "Territories",
-		"title": "Amaci",
+		"title": "Amaci 2",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
@@ -16,7 +16,20 @@
 			{"lat": -55.325, "lng": -49.024},
 			{"lat": -56.124, "lng": -46.497},
 			{"lat": -56.410, "lng": -46.585},
-			{"lat": -57.707, "lng": -50.002},
+			{"lat": -57.707, "lng": -50.002}
+
+		]
+	},
+
+	{
+		"type": "Territories",
+		"title": "Amaci 1",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0200ff",
+		"fillcolor": "0200ff",
+		"latlngarray": [
 
 			{"lat": -53.191, "lng": -26.271},
 			{"lat": -53.928, "lng": -22.734},
