@@ -102,7 +102,7 @@ $(function() {
 
 	var categories = (window.cats = new CategoriesCollection([
 		{
-			name: 'Angels Block',
+			name: 'Neighborhoods',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
 			enabled: false,
@@ -111,19 +111,25 @@ $(function() {
 			name: 'Territories',
 			icon: 'General/wall-breach.png',
 			type: 'General',
-			enabled: false,
+			enabled: true,
 		},
 		{
-			name: 'ChopShop',
+			name: 'Neutral',
 			icon: 'General/glitches.png',
 			type: 'General',
-			enabled: false,
+			enabled: true,
+		},
+		{
+			name: 'Automotive',
+			icon: 'radar/radar_acsr_race_hotring.png',
+			type: 'General',
+			enabled: true,
 		},
 		{
 			name: 'Heists',
 			icon: 'radar/radar_heist.png',
 			type: 'General',
-			enabled: false,
+			enabled: true,
 		},
 		{
 			name: 'Legal',
@@ -132,8 +138,14 @@ $(function() {
 			enabled: true,
 	   },
 		{
-			name: 'Illegal',
-			icon: 'radar/radar_police_station.png',
+			name: 'Medical',
+			icon: 'radar/radar_hospital.png',
+			type: 'General',
+			enabled: true,
+		},
+		{
+			name: 'Restaurants',
+			icon: 'radar/radar_bar.png',
 			type: 'General',
 			enabled: true,
 		},
