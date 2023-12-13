@@ -102,14 +102,14 @@ $(function() {
 
 	var categories = (window.cats = new CategoriesCollection([
 		{
-			name: 'Neighborhoods',
+			name: 'The Angels',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
 			enabled: false,
 		},
 		{
-			name: 'Territories',
-			icon: 'General/wall-breach.png',
+			name: 'The Block',
+			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true,
 		},
@@ -126,8 +126,8 @@ $(function() {
 			enabled: true,
 		},
 		{
-			name: 'Heists',
-			icon: 'radar/radar_heist.png',
+			name: 'Chop Shop',
+			icon: 'radar/radar_police_station.png',
 			type: 'General',
 			enabled: true,
 		},
@@ -138,8 +138,8 @@ $(function() {
 			enabled: true,
 	   },
 		{
-			name: 'Medical',
-			icon: 'radar/radar_hospital.png',
+			name: 'Illegal',
+			icon: 'radar/radar_police_station.png',
 			type: 'General',
 			enabled: true,
 		},
