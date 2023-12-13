@@ -20,6 +20,23 @@
 
 		]
 	},
+	{
+		"type": "Chop Shop",
+		"title": "Chop Shop 1",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0200ff",
+		"fillcolor": "0200ff",
+		"latlngarray": [
+			{"lat": -76.067, "lng": -48.180},
+			{"lat": -76.233, "lng": -48.411},
+			{"lat": -76.399, "lng": -48.070},
+			{"lat": -76.217, "lng": -48.795}
+		
+
+		]
+	},
 
 	{
 		"type": "Territories",
