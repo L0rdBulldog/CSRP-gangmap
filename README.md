@@ -1,4 +1,4 @@
-CSRP Territory map
+Angel Info Map
 ====
 [Live page](https://skyrossm.github.io/np-gangmap/)
 This interactive (Google) map shows you the location of current CRSP territory/gang zones.
