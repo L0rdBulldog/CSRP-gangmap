@@ -38,6 +38,23 @@
 		]
 	},
 	{
+		"type": "Chop Shop",
+		"title": "Chop Shop 2",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "0200ff",
+		"fillcolor": "0200ff",
+		"latlngarray": [
+			{"lat": 38.293, "lng": 34.278},
+			{"lat": 38.069, "lng": 33.784},
+			{"lat": 37.809, "lng": 33.937},
+			{"lat": 38.052, "lng": 34.443}
+		
+
+		]
+	},
+	{
 		"type": "The Block",
 		"title": "Amaci 1",
 		"notes": "",
