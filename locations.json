@@ -1,22 +1,21 @@
 [
 
 	{
-		"type": "The Block",
-		"title": "Amaci 2",
+		"type": "Gang MLO Locations",
+		"title": "The Lost",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "0200ff",
 		"fillcolor": "0200ff",
 		"latlngarray": [
-			{"lat": -58.404, "lng": -52.518},
-			{"lat": -55.896, "lng": -55.528},
-			{"lat": -54.383, "lng": -55.297},
-			{"lat": -54.255, "lng": -52.891},
-			{"lat": -55.325, "lng": -49.024},
-			{"lat": -56.124, "lng": -46.497},
-			{"lat": -56.410, "lng": -46.585},
-			{"lat": -57.707, "lng": -50.002}
+			
+			{"lat": -55.155, "lng": 14.630},
+			{"lat": -54.420, "lng": 13.421},
+			{"lat": -55.243, "lng": 12.081},
+			{"lat": -55.740, "lng": 13.586}
+
+
 
 		]
 	},
