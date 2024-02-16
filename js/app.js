@@ -113,42 +113,6 @@ $(function() {
 			type: 'General',
 			enabled: true,
 		},
-		{
-			name: 'Neutral',
-			icon: 'General/glitches.png',
-			type: 'General',
-			enabled: false,
-		},
-		{
-			name: 'Automotive',
-			icon: 'radar/radar_acsr_race_hotring.png',
-			type: 'General',
-			enabled: false,
-		},
-		{
-			name: 'Chop Shop',
-			icon: 'radar/radar_police_station.png',
-			type: 'General',
-			enabled: false,
-		},
-		{
-			name: 'Legal',
-			icon: 'radar/radar_police_station.png',
-			type: 'General',
-			enabled: false,
-	   },
-		{
-			name: 'Illegal',
-			icon: 'radar/radar_police_station.png',
-			type: 'General',
-			enabled: false,
-		},
-		{
-			name: 'Restaurants',
-			icon: 'radar/radar_bar.png',
-			type: 'General',
-			enabled: false,
-		},
 		/*
 		{
 			name: 'Deprecated',
