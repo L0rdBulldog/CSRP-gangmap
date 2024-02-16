@@ -2,12 +2,12 @@
 
 	{
 		"type": "Gang MLO Locations",
-		"title": "The Lost",
+		"title": "The Lost MC",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "0200ff",
-		"fillcolor": "0200ff",
+		"fillcolor": "FFF700",
 		"latlngarray": [
 			
 			{"lat": -55.155, "lng": 14.630},
