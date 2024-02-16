@@ -102,13 +102,13 @@ $(function() {
 
 	var categories = (window.cats = new CategoriesCollection([
 		{
-			name: 'The Angels',
+			name: 'Green Zones',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
 			enabled: false,
 		},
 		{
-			name: 'The Block',
+			name: 'Gang MLO Locations',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true,
@@ -117,37 +117,37 @@ $(function() {
 			name: 'Neutral',
 			icon: 'General/glitches.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		{
 			name: 'Automotive',
 			icon: 'radar/radar_acsr_race_hotring.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		{
 			name: 'Chop Shop',
 			icon: 'radar/radar_police_station.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		{
 			name: 'Legal',
 			icon: 'radar/radar_police_station.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 	   },
 		{
 			name: 'Illegal',
 			icon: 'radar/radar_police_station.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		{
 			name: 'Restaurants',
 			icon: 'radar/radar_bar.png',
 			type: 'General',
-			enabled: true,
+			enabled: false,
 		},
 		/*
 		{
