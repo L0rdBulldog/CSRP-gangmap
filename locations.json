@@ -38,6 +38,27 @@
 
 		]
 	},
+{
+		"type": "Green Zones",
+		"title": "UWU",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": -66.914, "lng": -32.851},
+			{"lat": -66.944, "lng": -31.039},
+			{"lat": -68.165, "lng": -33.016},
+			{"lat": -68.152, "lng": -30.874}
+
+
+
+		
+
+		]
+	},
+	
 	{
 		"type": "Chop Shop",
 		"title": "Chop Shop 2",
