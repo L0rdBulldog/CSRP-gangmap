@@ -20,18 +20,20 @@
 		]
 	},
 	{
-		"type": "Chop Shop",
-		"title": "Chop Shop 1",
+		"type": "Green Zones",
+		"title": "LSC",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "0200ff",
-		"fillcolor": "0200ff",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
-			{"lat": -76.067, "lng": -48.180},
-			{"lat": -76.233, "lng": -47.411},
-			{"lat": -76.399, "lng": -48.070},
-			{"lat": -76.217, "lng": -48.795}
+			{"lat": -53.402, "lng": -26.201},
+			{"lat": -55.121, "lng": -28.486},
+			{"lat": -56.625, "lng": -26.816},
+			{"lat": -55.942, "lng": -23.740},
+			{"lat": -54.136, "lng": -22.828}
+
 		
 
 		]
