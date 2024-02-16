@@ -44,8 +44,8 @@
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "00FF55",
+		"fillcolor": "00FF55",
 		"latlngarray": [
 			{"lat": -66.855, "lng": -33.063},
 			{"lat": -67.410, "lng": -33.085},
